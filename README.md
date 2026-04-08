@@ -18,7 +18,8 @@
 
 👉 **[📂 Explorer TYPO3 14.1.1](https://phpsources.net/x7g3p2.php?id=26&name=typo3_src-14.1.1.zip)**
 
-**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :**  
+**Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :** 
+
 👉 **[TYPO3 CMS sur phpsources.net](https://phpsources.net/script/php/cms/26-230_typo3,14.1.1)**
 
 ### Licence
