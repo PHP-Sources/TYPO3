@@ -11,9 +11,9 @@
 - Sécurité de niveau professionnel
 - Extensibilité exceptionnelle avec des milliers d’extensions
 
-### 📥 Accès rapide aux fichiers
+### 📥 Dernière version du CMS
 
-**Explorez rapidement les fichiers via notre explorateur :**
+**Explorez rapidement les fichiers de TYPO3 14.2.0 via notre explorateur :**
 
 👉 **[📂 Explorer TYPO3 14.2.0](https://phpsources.net/x7g3p2.php?id=26&name=typo3_src-14.2.0.zip)**
 
@@ -30,9 +30,6 @@ Distribué sous licence **GPL**.
 ### ⭐ Contribution
 Si ce CMS Enterprise vous aide, n’hésitez pas à mettre une **star** ⭐ et à le **forker** !
 
----
-
-**Découvrez des centaines d’autres scripts PHP open source sur → [phpsources.net](https://phpsources.net)**
 ---
 
 **Découvrez des centaines d’autres scripts PHP open source sur → [phpsources.net](https://phpsources.net)**
